@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 - 🎓 Third-year software engineering student at Ben-Gurion University.
 - 🚀 Currently contributing to Greenshot open source code, developing a Chrome extension, and exploring Python projects.
+- 🔭 Passionate about astronomy, and always looking for opportunities to learn more.
 - 🥉 Third place in a hackathon, built a website for NASA Space App Challenge, and mentored in a SpaceIL hackathon.
 - 💻 Passionate about creating things from scratch and using technology to solve real-world problems.
 - 🧘‍♀️ I enjoy practicing yoga, mountain biking, and bouldering.
 
 If you're interested in collaborating on a project or just want to chat, feel free to reach out to me!
+
